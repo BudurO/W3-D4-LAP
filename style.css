@@ -1,0 +1,20 @@
+.button{
+   background-color: black;
+}
+
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+.buttonStyle{
+    background-color: rgb(222, 136, 136);
+    border: none;
+    padding: 14px 14px;
+}
+.imgba{
+    height: 30vh;
+    width: 15vw;
+    margin-top: 2rem;
+}
